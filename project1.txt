@@ -1,2 +1,6 @@
 hello world madhu varan how was your day
-is good
+is good 
+take input from user
+and print it 
+
+i want this data to submit
